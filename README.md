@@ -7,4 +7,10 @@ REQUIREMENTS:
 
 INSTALLATION:
 - Add .env file to project root or edit .env-example and add required environment values
+- Add second .env file to the root of frontend folder and the following parameter
+  
+  CHOKIDAR_USEPOLLING=true
+
+  This enables hot reloading when developing when React is running in Docker container
+
 - Run docker-compose up --build on your command line at the project root and you should be ready to go!
