@@ -1,6 +1,6 @@
 (NOT READY)
 
-This is a simple PERN-stack template. It includes Postgres, Express, Node (TypeScript) React (TypeScript) + Docker configuration.
+This is a simple PERN-stack template. It includes Postgres, Express, Node (TypeScript) and React (TypeScript) + Docker configuration.
 
 REQUIREMENTS:
 - Docker installed in your system
